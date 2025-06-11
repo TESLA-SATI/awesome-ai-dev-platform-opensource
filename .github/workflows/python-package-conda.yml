@@ -1,6 +1,5 @@
 from transformers import pipeline
 
-# Możesz podmienić to na bardziej zaawansowany model
 classifier = pipeline("text-classification", model="distilbert-base-uncased")
 
 def score_vulnerability(vuln):
