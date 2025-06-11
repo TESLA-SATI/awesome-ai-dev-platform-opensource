@@ -1,0 +1,13 @@
+import json
+import pandas as pd
+from scoring.model import score_vulnerability
+
+with open("data/sample_cves.json", "r") as f:
+    vulns = json.load(f)
+
+scored = [score_vulnerability(v) for v in vulns]
+
+df = pd.DataFrame(scored)
+df.to_csv("export/vuln_scores.csv", index=False)
+df.to_json("export/vuln_scores.json", orient="records", indent=2)
+df.to_html("export/vuln_scores.html")
