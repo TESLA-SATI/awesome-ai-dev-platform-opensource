@@ -2,7 +2,7 @@ from transformers import pipeline
 
 classifier = pipeline("text-classification", model="distilbert-base-uncased")
 
-def score_vulnerability(vuln):
+def score_vulnerability(vuln)
     description = vuln.get("description", "")
     impact = vuln.get("impact", {})
     
