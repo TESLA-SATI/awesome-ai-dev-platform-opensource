@@ -38,11 +38,8 @@ AIxBlock combines decentralized compute, open‑source models, data engines and 
 | ---------------------------- | ---------------------- | ------------ | --------------------------------------------------------------------- |
 | `app.aixblock.io`            | Web App                | **High**     | Primary UI for AI & automation workflows.                             |
 | `api.aixblock.io`            | API                    | **Critical** | Model management & workflow execution endpoints (`/api/*`).           |
-| `*.aixblock.io`              | Wildcard               | **Medium**   | All first‑party sub‑domains (docs, staging, etc.).                    |
-| `webhook.aixblock.io`        | Webhook                | **High**     | Inbound hooks powering third‑party integrations.                      |
-| `smartcontracts.aixblock.io` | Solana Smart Contracts | **Critical** | On‑chain logic for compute, models, validators & transactions.        |
-| `compute.aixblock.io`        | Decentralized Compute  | **High**     | GPU/CPU rental marketplace infrastructure.                            |
-| `data.aixblock.io`           | Data Engine            | **High**     | Pipelines for crawl, curate, label – bridges to HF, Roboflow, Kaggle. |
+| `*.aixblock.io`              | Wildcard               | **Low**   | All first‑party sub‑domains (docs, staging, etc.).                    |
+| `webhook.aixblock.io`        | Webhook                | **Medium**     | Inbound hooks powering third‑party integrations.                      |
 | `mcp.aixblock.io`            | MCP Layer              | **Medium**   | Connectors to third‑party tools (Cursor, Claude, WindSurf, …).        |
 | `workflow.aixblock.io`       | Workflow Engine        | **Critical** | Core service for building & running automation workflows.             |
 
@@ -119,6 +116,9 @@ Submit vulnerabilities as issues on the public repository at [https://github.com
 
 \***Token: payouts redeemable on or one day after TGE.**
 
+⚠️ **Note**: To be eligible for the **full reward**, researchers must not only report the vulnerability but also submit a **valid Pull Request (PR)** that includes a **concrete fix directly in our open-source codebase**. PRs must contain an **actual code-level resolution** (not just a placeholder, comment, or general suggestion) that addresses the root cause of the issue. Submissions that only create a PR to satisfy process requirements without providing a real fix or actionable change in code will **not be considered for full rewards**.
+If only a report is submitted **without a valid code fix**, or the PR does **not provide a working solution**, the researcher will receive **50% of the listed reward**.
+
 **Bonus:** Additional for reports with detailed PoCs or vulnerabilities found in new features (e.g., automation workflows, MCP integration, decentralized compute).
 
 **No Reward:** Duplicate reports, out-of-scope issues, or vulnerabilities with no security impact.
@@ -156,6 +156,16 @@ Additional opportunities to claim tokens on our TGE date and receive long-term r
 - **Huggingface**: https://huggingface.co/AIxBlock.
 
 ---
+
+## 🏆 Rewarded Reports
+
+| User         | Report Title                                               | Domain              | Severity     | Status   | Reward     |
+| ------------ | ---------------------------------------------------------- | ------------------- | ------------ | -------- | ---------- |
+| [@0XZAMAJ](https://github.com/0XZAMAJ) | Unauthorized Deletion of Other Users’ Profile Pictures | `api.aixblock.io` | High       | Accepted | $225 cash + 500 worth of token & rev‑share     |
+| [@0xygyn-X](https://github.com/0xygyn-X)  | Insecure Direct Object Reference (IDOR) Vulnerability on "Account Settings --> Organizations" exposing organization & Admin PII | `api.aixblock.io` | High       | Accepted | $225 cash + 500 worth of token & rev‑share     |
+| [@eMKayRa0](https://github.com/eMKayRa0)    | Security Bug Report – Reflected Cross-Site Scripting (XSS) on app.aixblock.io      | `app.aixblock.io`   | High       | Accepted | $225 cash + 500 worth of token & rev‑share      |
+| [@pravinkumar-exe](https://github.com/pravinkumar-exe)    | Missing Email Verification Grants Full Account Access      | `*.aixblock.io`   | Low       | Accepted |  100 worth of token & rev‑share      |
+
 
 ### Footnotes
 

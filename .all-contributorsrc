@@ -8,12 +8,111 @@
   "commitConvention": "angular",
   "contributors": [
     {
-      "login": "vietnv1602",
-      "name": "Viet Nguyen",
-      "avatar_url": "https://avatars.githubusercontent.com/u/72266805?v=4",
-      "profile": "https://github.com/vietnv1602",
+      "login": "TESLA-SATI",
+      "name": "TESLA-SATI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/119964285?v=4",
+      "profile": "https://www.google.com/search?sca_esv=dca996cfbce33230&authuser=0&hl=pl&gl=pl&output=search&q=PRIME+Sp.+z+o.o.&ludocid=17467329443996292901&lsig=AB86z5X0Bf-JfNWCbOR92pcX_xaJ&ved=1i%3A4%2Ct%3A109124%2Ce%3A3%2Cp%3Adv0BZvi9JvuSxc8PjMeKsA8%3A51",
       "contributions": [
         "doc"
+      ]
+    },
+    {
+      "login": "eMKayRa0",
+      "name": "eMKayRao",
+      "avatar_url": "https://avatars.githubusercontent.com/u/106302120?v=4",
+      "profile": "https://github.com/eMKayRa0",
+      "contributions": [
+        "security"
+      ]
+    },
+    {
+      "login": "0XZAMAJ",
+      "name": "0XZAMAJ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/215890246?v=4",
+      "profile": "https://github.com/0XZAMAJ",
+      "contributions": [
+        "security"
+      ]
+    },
+    {
+      "login": "pravinkumar-exe",
+      "name": "pravinkumar-exe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52107447?v=4",
+      "profile": "https://github.com/pravinkumar-exe",
+      "contributions": [
+        "security"
+      ]
+    },
+    {
+      "login": "priyanshukumar397",
+      "name": "priyanshukumar397",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54209223?v=4",
+      "profile": "https://github.com/priyanshukumar397",
+      "contributions": [
+        "security"
+      ]
+    },
+    {
+      "login": "0xygyn-X",
+      "name": "0xygyn-X",
+      "avatar_url": "https://avatars.githubusercontent.com/u/215982257?v=4",
+      "profile": "https://github.com/0xygyn-X",
+      "contributions": [
+        "security"
+      ]
+    },
+    {
+      "login": "big14way",
+      "name": "Godswill Idolor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/115630820?v=4",
+      "profile": "https://github.com/big14way",
+      "contributions": [
+        "security"
+      ]
+    },
+    {
+      "login": "sonw-vh",
+      "name": "s.0wn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/99324997?v=4",
+      "profile": "http://cv-sonwday.web.app",
+      "contributions": [
+        "security"
+      ]
+    },
+    {
+      "login": "FCGitUser",
+      "name": "FCGitUser",
+      "avatar_url": "https://avatars.githubusercontent.com/u/122260273?v=4",
+      "profile": "https://github.com/FCGitUser",
+      "contributions": [
+        "security"
+      ]
+    },
+    {
+      "login": "comradeflats",
+      "name": "Ryan E. ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/81211706?v=4",
+      "profile": "http://ryanwinstonelliott.com",
+      "contributions": [
+        "security"
+      ]
+    },
+    {
+      "login": "AbhishekKumar9430",
+      "name": "AbhishekKumar9430",
+      "avatar_url": "https://avatars.githubusercontent.com/u/158041237?v=4",
+      "profile": "https://github.com/AbhishekKumar9430",
+      "contributions": [
+        "security"
+      ]
+    },
+    {
+      "login": "Proxypentest",
+      "name": "proxypentest",
+      "avatar_url": "https://avatars.githubusercontent.com/u/216752274?v=4",
+      "profile": "https://github.com/Proxypentest",
+      "contributions": [
+        "security"
       ]
     }
   ],
@@ -21,6 +120,6 @@
   "skipCi": true,
   "repoType": "github",
   "repoHost": "https://github.com",
-  "projectName": "aixblock-ai-dev-platform-public",
+  "projectName": "awesome-ai-dev-platform-opensource",
   "projectOwner": "AIxBlock-2023"
 }

@@ -1,6 +1,6 @@
 **Breaking: AIxBlock transitions to open-source. Please follow us for more updates. Here is a brief overview of our project.**
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-12-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # AIxBlock
@@ -262,7 +262,26 @@ Give this repository a ⭐ and share it with your network to help grow the AIxBl
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.google.com/search?sca_esv=dca996cfbce33230&authuser=0&hl=pl&gl=pl&output=search&q=PRIME+Sp.+z+o.o.&ludocid=17467329443996292901&lsig=AB86z5X0Bf-JfNWCbOR92pcX_xaJ&ved=1i%3A4%2Ct%3A109124%2Ce%3A3%2Cp%3Adv0BZvi9JvuSxc8PjMeKsA8%3A51"><img src="https://avatars.githubusercontent.com/u/119964285?v=4?s=100" width="100px;" alt="TESLA-SATI"/><br /><sub><b>TESLA-SATI</b></sub></a><br /><a href="https://github.com/AIxBlock-2023/awesome-ai-dev-platform-opensource/commits?author=TESLA-SATI" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/eMKayRa0"><img src="https://avatars.githubusercontent.com/u/106302120?v=4?s=100" width="100px;" alt="eMKayRao"/><br /><sub><b>eMKayRao</b></sub></a><br /><a href="#security-eMKayRa0" title="Security">🛡️</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/0XZAMAJ"><img src="https://avatars.githubusercontent.com/u/215890246?v=4?s=100" width="100px;" alt="0XZAMAJ"/><br /><sub><b>0XZAMAJ</b></sub></a><br /><a href="#security-0XZAMAJ" title="Security">🛡️</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/pravinkumar-exe"><img src="https://avatars.githubusercontent.com/u/52107447?v=4?s=100" width="100px;" alt="pravinkumar-exe"/><br /><sub><b>pravinkumar-exe</b></sub></a><br /><a href="#security-pravinkumar-exe" title="Security">🛡️</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/priyanshukumar397"><img src="https://avatars.githubusercontent.com/u/54209223?v=4?s=100" width="100px;" alt="priyanshukumar397"/><br /><sub><b>priyanshukumar397</b></sub></a><br /><a href="#security-priyanshukumar397" title="Security">🛡️</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/0xygyn-X"><img src="https://avatars.githubusercontent.com/u/215982257?v=4?s=100" width="100px;" alt="0xygyn-X"/><br /><sub><b>0xygyn-X</b></sub></a><br /><a href="#security-0xygyn-X" title="Security">🛡️</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/big14way"><img src="https://avatars.githubusercontent.com/u/115630820?v=4?s=100" width="100px;" alt="Godswill Idolor"/><br /><sub><b>Godswill Idolor</b></sub></a><br /><a href="#security-big14way" title="Security">🛡️</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="http://cv-sonwday.web.app"><img src="https://avatars.githubusercontent.com/u/99324997?v=4?s=100" width="100px;" alt="s.0wn"/><br /><sub><b>s.0wn</b></sub></a><br /><a href="#security-sonw-vh" title="Security">🛡️</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/FCGitUser"><img src="https://avatars.githubusercontent.com/u/122260273?v=4?s=100" width="100px;" alt="FCGitUser"/><br /><sub><b>FCGitUser</b></sub></a><br /><a href="#security-FCGitUser" title="Security">🛡️</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://ryanwinstonelliott.com"><img src="https://avatars.githubusercontent.com/u/81211706?v=4?s=100" width="100px;" alt="Ryan E. "/><br /><sub><b>Ryan E. </b></sub></a><br /><a href="#security-comradeflats" title="Security">🛡️</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/AbhishekKumar9430"><img src="https://avatars.githubusercontent.com/u/158041237?v=4?s=100" width="100px;" alt="AbhishekKumar9430"/><br /><sub><b>AbhishekKumar9430</b></sub></a><br /><a href="#security-AbhishekKumar9430" title="Security">🛡️</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Proxypentest"><img src="https://avatars.githubusercontent.com/u/216752274?v=4?s=100" width="100px;" alt="proxypentest"/><br /><sub><b>proxypentest</b></sub></a><br /><a href="#security-Proxypentest" title="Security">🛡️</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
